@@ -1,0 +1,111 @@
+Good Readme Tips:
+
+Here are some guide questions that will help you out:
+
+What was your motivation?
+Why did you build this project?
+What problem does it solve?
+What did you learn?
+What makes your project stand out?
+If your project has a lot of features, consider adding a "Features" section and listing them here.
+
+
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+
+File format is md so file name is Readme.md
+Here md refer to markdown, it is lightweight language that easily convert text into desired format into HTML
+
+
+For heading syntax is hash #
+
+One hash h1
+Two hash h2
+.
+.
+Six hash h6
+
+
+How to write normal text?
+Just write simple text no need to add any tags
+
+How to add links in Github?
+
+Using syntax:
+[link name](targetURL)
+
+e.g. [Github](https://www.github.com)
+
+or
+
+e.g. [Github](https://www.github.com "Github home")
+
+
+Bold text:
+
+**Text**
+
+Italic text:
+
+_text_
+
+
+For Strike through:(line between text:
+
+~~Strike through~~
+
+
+
+How to add images?
+
+![imagename](TargetUrl)
+
+
+How to add tables?
+
+You can write a table by using the below format of text.
+
+|Name|Email|Address|             <====== This is the heading of the table
+|----|-----|-------|             <====== This is the separator.
+|John|john@example.com|Address1| <=== This is the table body.
+
+
+
+How to add quotes?
+
+>text
+
+How to write code?
+
+`text`
+
+How to write code block ?
+
+```language name code```
+
+
+How to write a list?
+
+You can write an ordered list, unordered list, and mixed list. Please see the below format how to write a list.
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Sub item 1
+   * Sub item 3
+* Unordered item
+* Unordered item
+* Unordered item
+
+
+How to add horizontal line?
+
+text
+---
+text1
+***
+
+
+
+
+
